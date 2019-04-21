@@ -1,5 +1,12 @@
 # HW1
 
+##### Grade: 7/7
+Nice work!
+
+-0: Please add legend/title/label to your plot.
+-0: pd.to_datetime(bike_data['Date']) is an expensive operation, and therefore you should do it only once and save the result.
+_____
+
 Obtain the CSV (comma separated variable) file containing the counts of bicycles crossing the Fremont Bridge since 2012 (as described in https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k). Create a project directory with subdirectories for data and analysis, and create a README file. Download the data from https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD and put it in the data directory. Create a Jupyter notebook to analyze these data. In the notebook, complete the following:
 
 1. Read the CSV file into a pandas dataframe. (1 pt)

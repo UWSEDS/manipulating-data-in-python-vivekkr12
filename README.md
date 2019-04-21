@@ -3,7 +3,7 @@
 ##### Grade: 7/7
 Nice work!
 
--0: Please add legend/title/label to your plot.
+-0: Please add legend/title/label to your plot.   
 -0: pd.to_datetime(bike_data['Date']) is an expensive operation, and therefore you should do it only once and save the result.
 _____
 
